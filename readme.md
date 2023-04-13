@@ -4,8 +4,8 @@
     - selecionar a biblioteca - ex.: React
     - selecionar typescript
 
-# Instalar as dependencias
-- npm install
+## Instalar as dependencias
+    - npm install
 
 # Install e iniciar tailwind
 - npm install -D tailwindcss
