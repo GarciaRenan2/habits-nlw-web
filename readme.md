@@ -11,3 +11,7 @@
 - npm install -D tailwindcss
 - npx tailindcss init
 
+# SSH
+    - Abrir gitbash
+    eval "$(ssh-agent -s)"
+    ssh-add ~/.ssh/chave
